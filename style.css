@@ -51,11 +51,14 @@ figcaption{
     font-size: 24px;
     font-weight: bold;
     background-color: rgba(0,0,0, 0.5);
+    border-radius: 10px;
 }
 
 img{
     width:100%;
     height:auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 1px rgba(0,0,0, .5);
 }
 
 .instruction{
